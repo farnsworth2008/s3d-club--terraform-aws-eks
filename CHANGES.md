@@ -20,5 +20,5 @@ Recently completed and planned work is tracked here.
 ## [0.1.8](.)
 - Updated `aws` provider
 
-## [0.1.9-s3d-1004](.)
+## [0.1.9-s3d-1005](.)
 - Added `s3d-flow-json` in `changes` module
