@@ -12,5 +12,5 @@ Recently completed and planned work is tracked here.
 - Updated `aws` provider
 - Updated `name` module
 
-## [0.1.12-1000](.)
-- Changed to use `-*` as suffix for pre-release versions
+## [0.1.12-s3d-1001](.)
+- Changed to use `-x` as suffix for pre-release versions
