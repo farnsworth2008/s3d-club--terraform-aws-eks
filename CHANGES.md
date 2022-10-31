@@ -11,3 +11,6 @@ Recently completed and planned work is tracked here.
 - Improved descriptions of variables and outputs
 - Updated `aws` provider
 - Updated `name` module
+
+## [0.1.12-1000](.)
+- Changed to use `-*` as suffix for pre-release versions
